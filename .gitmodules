@@ -1,0 +1,3 @@
+[submodule "webroot/star-rating"]
+	path = webroot/star-rating
+	url = https://github.com/Fyneworks-jQuery/star-rating
